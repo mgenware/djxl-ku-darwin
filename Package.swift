@@ -27,7 +27,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "libdjxlx",
-            url: "https://github.com/mgenware/djxl-ku-darwin/releases/download/v0.11.0-pre/libdjxlx.xcframework.zip",
+            url: "https://github.com/mgenware/djxl-ku-darwin/releases/download/0.11.1-binary/libdjxlx.xcframework.zip",
             checksum: "cce166accfed481ebf0473268de99c75aa84f3985e9ce02d181a1a2d60d3ae6e"
         ),
     ],
