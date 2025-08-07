@@ -2,9 +2,9 @@
 
 djxl (libjxl decoder) on iOS / macOS.
 
+- libjxl 0.11.1
 - Platforms: iOS 14+, macOS 11+.
 - Archs: ios-arm64, ios-arm64-simulator, macos-arm64_x86_64
-- The version of this library is the version of libjxl used to build it.
 
 | iOS / macOS                                                  | Android                                                        |
 |--------------------------------------------------------------|----------------------------------------------------------------|
